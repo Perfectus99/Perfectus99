@@ -22,6 +22,21 @@ As a diligent and proactive QA specialist, I am committed to delivering top-notc
 </p>
 
 ---
+### Tools / Softwares
+<img height="70" width="100" src="https://cdn.simpleicons.org/apachejmeter/D22128" /></a>
+<img height="70" width="30" src="https://cdn.simpleicons.org/trello/#0052CC" /></a>
+<img width="10" />
+<img height="70" width="30" src="https://cdn.simpleicons.org/asana/#F06A6A" /></a>
+<img width="10" />
+<img height="70" width="30" src="https://cdn.simpleicons.org/jirasoftware/0052CC" /></a>
+<img width="10" />
+<img height="70" width="30" src="https://cdn.simpleicons.org/microsoftexcel/#217346" /></a>
+<img width="10" />
+<img height="70" width="30" src="https://cdn.simpleicons.org/microsoftword/#2B579A" /></a>
+<img width="10" />
+<img height="70" width="30" src="https://cdn.simpleicons.org/microsoftpowerpoint/#B7472A" /></a>
+<img width="10" />
+
 
 ### Testing Platform / OS
 <img height="30" width="30" src="https://cdn.simpleicons.org/android/3DDC84" /></a>

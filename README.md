@@ -23,6 +23,15 @@ As a diligent and proactive QA specialist, I am committed to delivering top-notc
 
 ---
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+
+
+
+
+
+
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 

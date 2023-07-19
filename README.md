@@ -23,7 +23,8 @@ As a diligent and proactive QA specialist, I am committed to delivering top-notc
 
 ---
 ### Tools / Softwares
-<img height="70" width="100" src="https://cdn.simpleicons.org/apachejmeter/D22128" /></a>
+<img height="70" width="80" src="https://cdn.simpleicons.org/apachejmeter/D22128" /></a>
+<img width="5" />
 <img height="70" width="30" src="https://cdn.simpleicons.org/trello/#0052CC" /></a>
 <img width="10" />
 <img height="70" width="30" src="https://cdn.simpleicons.org/asana/#F06A6A" /></a>

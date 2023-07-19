@@ -35,8 +35,6 @@ As a diligent and proactive QA specialist, I am committed to delivering top-notc
 <img height="70" width="30" src="https://cdn.simpleicons.org/microsoftword/#2B579A" /></a>
 <img width="10" />
 <img height="70" width="30" src="https://cdn.simpleicons.org/microsoftpowerpoint/#B7472A" /></a>
-<img width="10" />
-
 
 ### Testing Platform / OS
 <img height="30" width="30" src="https://cdn.simpleicons.org/android/3DDC84" /></a>
@@ -50,15 +48,12 @@ As a diligent and proactive QA specialist, I am committed to delivering top-notc
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
-
+#
+### Game Engines
 <div align="left">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=windows&logoColor=black&style=for-the-badge" height="30" alt="windows logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
 </div>
 
 ###

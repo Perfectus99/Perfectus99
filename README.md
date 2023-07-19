@@ -23,22 +23,19 @@ As a diligent and proactive QA specialist, I am committed to delivering top-notc
 
 ---
 
+### YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
 
 
-
-
-
-
-###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+### Testing Platform / OS
+<img height="30" width="30" src="https://cdn.simpleicons.org/apple/white" /></a>
+<img height="30" width="30" src="https://cdn.simpleicons.org/android/white" /></a>
+<img height="30" width="30" src="https://cdn.simpleicons.org/windows/white" /></a>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=windows&logoColor=black&style=for-the-badge" height="30" alt="windows logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
   <img width="12" />

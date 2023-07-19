@@ -1,6 +1,6 @@
 # GARY HUNG YIH WEI
 
-**'Quality Assurance | Senior Game Tester | Content Creator'**
+### **"Quality Assurance | Senior Game Tester | Content Creator"**
 
 I am a dedicated Game Tester and QA professional with a strong passion in video games. With a solid background in testing and evaluating games, my goal is to ensure the delivery of exceptional gaming experiences to players worldwide.
 

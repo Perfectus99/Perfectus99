@@ -23,16 +23,18 @@ As a diligent and proactive QA specialist, I am committed to delivering top-notc
 
 ---
 
+### Testing Platform / OS
+<img height="30" width="30" src="https://cdn.simpleicons.org/android/3DDC84" /></a>
+<img width="12" />
+<img height="30" width="30" src="https://cdn.simpleicons.org/apple/white" /></a>
+<img width="12" />
+<img height="30" width="30" src="https://cdn.simpleicons.org/windows/00A2ED" /></a>
+
+#
 ### YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
-
-
-### Testing Platform / OS
-<img height="30" width="30" src="https://cdn.simpleicons.org/apple/white" /></a>
-<img height="30" width="30" src="https://cdn.simpleicons.org/android/white" /></a>
-<img height="30" width="30" src="https://cdn.simpleicons.org/windows/white" /></a>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=windows&logoColor=black&style=for-the-badge" height="30" alt="windows logo"  />
@@ -46,24 +48,8 @@ As a diligent and proactive QA specialist, I am committed to delivering top-notc
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/garyhyw/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@perfectus99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/perfectus_99/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
 
-###
 
 <br clear="both">
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###

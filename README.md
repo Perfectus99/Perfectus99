@@ -49,12 +49,14 @@ As a diligent and proactive QA specialist, I am committed to delivering top-notc
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
+TBA
+
 #
-### Game Engines
+### Game Engines (TBA)
 <div align="left">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=windows&logoColor=black&style=for-the-badge" height="30" alt="windows logo"  />
+  <img height="30" width="30" src="https://cdn.simpleicons.org/unity/#FFFFFF" /></a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
+   <img height="30" width="30" src="https://cdn.simpleicons.org/unrealengine/#0E1128" /></a>
 </div>
 
 ###

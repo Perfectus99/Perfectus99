@@ -45,7 +45,3 @@ English · Chinese · Cantonese · Malay
 B.A.Sc (Hons) Electronic & Instrumentation — UMT (CGPA: 3.9/4.0)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perfectus99&show_icons=true&theme=default&hide_border=true&count_private=true" />
-</p>

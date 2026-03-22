@@ -1,68 +1,51 @@
-# GARY HUNG YIH WEI
+# Gary Hung
 
-### **"Quality Assurance | Senior Game Tester | Content Creator"**
+Senior QA Engineer from Malaysia. I break things before users do.
 
-I am a dedicated Game Tester and QA professional with a strong passion in video games. With a solid background in testing and evaluating games, my goal is to ensure the delivery of exceptional gaming experiences to players worldwide.
+Right now I'm the first QA hire at a fintech startup — built the team, the processes, and the docs from scratch. Currently deep into API test automation for a microservice architecture where one bad response can cascade across services.
 
-As a diligent and proactive QA specialist, I am committed to delivering top-notch quality assurance throughout the game development lifecycle. I have a proven track record of playtesting, identifying and documenting software defects, collaborating effectively with development teams, and ensuring the final product meets the highest standards of performance, functionality, and player satisfaction.
+Before fintech, I spent 4+ years in gaming — from testing HTML5 titles to leading QA on a Solana-based Web3 game and an Unreal Engine 5 project on Steam. Also tested 200+ games on G.Round, with 140 reviews flagged by studios for quality.
 
-<!-- Social badges section -->
-<p align="left">
-  <a href="https://www.youtube.com/c/UCmkt8fd9weSvuUe-_iug_Wg?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel"
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCmkt8fd9weSvuUe-_iug_Wg?color=%23E05D44&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-  
-  <a href="https://www.youtube.com/channel/UCmkt8fd9weSvuUe-_iug_Wg">
-    <img alt="youtube views" title="YouTube views"
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCmkt8fd9weSvuUe-_iug_Wg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-    
-  <a href="https://github.com/Perfectus99?tab=followers">
-    <img alt="followers" title="Follow me on Github"
-      src="https://custom-icon-badges.demolab.com/github/followers/Perfectus99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+Outside of work, I help businesses build products and test them end-to-end. Most repos are private, but the contribution graph tells the story.
+
+### How I got here
+
+```
+Software QA → Unreal Engine 5 / Steam → Web3 (Solana) → Fintech
+```
+
+## Tools I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</p>
+
+## Languages
+
+English · Chinese · Cantonese · Malay
+
+## Education
+
+B.A.Sc (Hons) Electronic & Instrumentation — UMT (CGPA: 3.9/4.0)
+
 ---
-### Tools / Softwares
-<img height="70" width="80" src="https://cdn.simpleicons.org/apachejmeter/D22128" /></a>
-<img width="5" />
-<img height="70" width="30" src="https://cdn.simpleicons.org/trello/#0052CC" /></a>
-<img width="10" />
-<img height="70" width="30" src="https://cdn.simpleicons.org/asana/#F06A6A" /></a>
-<img width="10" />
-<img height="70" width="30" src="https://cdn.simpleicons.org/jirasoftware/0052CC" /></a>
-<img width="10" />
-<img height="70" width="30" src="https://cdn.simpleicons.org/microsoftexcel/#217346" /></a>
-<img width="10" />
-<img height="70" width="30" src="https://cdn.simpleicons.org/microsoftword/#2B579A" /></a>
-<img width="10" />
-<img height="70" width="30" src="https://cdn.simpleicons.org/microsoftpowerpoint/#B7472A" /></a>
 
-### Testing Platform / OS
-<img height="30" width="30" src="https://cdn.simpleicons.org/android/3DDC84" /></a>
-<img width="12" />
-<img height="30" width="30" src="https://cdn.simpleicons.org/apple/white" /></a>
-<img width="12" />
-<img height="30" width="30" src="https://cdn.simpleicons.org/windows/00A2ED" /></a>
-
-#
-### YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
-TBA
-
-#
-### Game Engines (TBA)
-<div align="left">
-  <img height="30" width="30" src="https://cdn.simpleicons.org/unity/#FFFFFF" /></a>
-  <img width="12" />
-   <img height="30" width="30" src="https://cdn.simpleicons.org/unrealengine/#0E1128" /></a>
-</div>
-
-###
-
-
-
-<br clear="both">
-
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Perfectus99&show_icons=true&theme=default&hide_border=true&count_private=true" />
+</p>

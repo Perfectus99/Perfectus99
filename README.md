@@ -1,10 +1,10 @@
 # Gary Hung
 
-Senior QA Engineer from Malaysia. I break things before users do.
+Senior QA Engineer from Malaysia. As the last line of defence in a project, I break things before users do.
 
 Right now I'm the first QA hire at a fintech startup — built the team, the processes, and the docs from scratch. Currently deep into API test automation for a microservice architecture where one bad response can cascade across services.
 
-Before fintech, I spent 4+ years in gaming — from testing HTML5 titles to leading QA on a Solana-based Web3 game and an Unreal Engine 5 project on Steam. Also tested 200+ games on G.Round, with 140 reviews flagged by studios for quality.
+Before fintech, I spent 5+ years in gaming — from testing HTML5 titles to leading QA on a Solana-based Web3 game and an Unreal Engine 5 project on Steam. Also tested 200+ games on G.Round, with 140 reviews flagged by studios for quality.
 
 Outside of work, I help businesses build products and test them end-to-end. Most repos are private, but the contribution graph tells the story.
 
